@@ -68,7 +68,7 @@ tags:
 
   ```yaml
   变量名: MYSQL_HOME
-  变量值: C:\developer\env\mysql-5.7.25-winx64
+  变量值: C:\developer\env\mysql-5.7.25-winx64 
   path里添加: %MYSQL_HOME%\bin
   ```
 
