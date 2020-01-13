@@ -4,7 +4,7 @@ date: 2019-4-5 12:00:00
 top: false
 cover: true
 toc: true
-summary: 介绍容器、镜像的区别和Docker每个命令后面的技术细节
+summary: 介绍Docker容器、镜像等
 categories: DevOps
 tags:
   - Docker
