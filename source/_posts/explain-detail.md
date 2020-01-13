@@ -4,7 +4,7 @@ date: 2018-11-11 12:00:00
 top: false
 cover: false
 toc: true
-summary: 这是一篇EXPLAIN详解。
+summary: EXPLAIN参数详解
 categories: Mysql
 tags:
   - Mysql

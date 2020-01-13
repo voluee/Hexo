@@ -4,7 +4,7 @@ date: 2019-2-1 12:00:00
 top: false
 cover: true
 toc: true
-summary: 记录WIndows和Linux还有MacOS系统下的开发工具的安装、部署、配置环境、命令等
+summary: 记录各个系统下开发工具的部署
 categories: DevOps
 tags:
   - Windows

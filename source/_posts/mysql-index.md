@@ -4,7 +4,7 @@ date: 2018-11-07 12:00:00
 top: false
 cover: false
 toc: true
-summary: 这是一篇从实例出发的sql调优教程，文章开头有生成数据的语句。一键生成环境，快速上手调优。
+summary: 记录sql调优的过程
 categories: Mysql
 tags:
   - Mysql

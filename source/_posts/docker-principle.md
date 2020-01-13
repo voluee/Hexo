@@ -4,7 +4,7 @@ date: 2019-4-5 12:00:00
 top: false
 cover: true
 toc: true
-summary: 本文用图文并茂的方式介绍了容器、镜像的区别和Docker每个命令后面的技术细节，能够很好的帮助读者深入理解Docker。
+summary: 介绍容器、镜像的区别和Docker每个命令后面的技术细节
 categories: DevOps
 tags:
   - Docker

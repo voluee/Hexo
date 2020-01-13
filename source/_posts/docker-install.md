@@ -4,7 +4,7 @@ date: 2019-1-4 12:00:00
 top: false
 cover: false
 toc: true
-summary: 这是一篇Docker install文章。
+summary: Docker install文章
 categories: DevOps
 tags:
   - Docker

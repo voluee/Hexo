@@ -4,7 +4,7 @@ date: 2019-11-20 21:00:00
 top: false
 cover: true
 toc: true
-summary: 描述了github和gitlab同时使用的问题。
+summary: github和gitlab同时使用
 categories: DevOps
 tags:
   - GitHub
